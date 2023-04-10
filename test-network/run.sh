@@ -1,5 +1,7 @@
 rm -rf ../test-application/wallet
 
+mongo hlf --eval "db.users.drop()"
+
 ./network.sh down
 
 ./network.sh up createChannel -ca -s couchdb

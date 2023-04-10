@@ -12,4 +12,4 @@ organizations/peerOrganizations/*
 system-genesis-block/*
 *.tar.gz
 log.txt
-../test-application/wallet
+../test-application/wallet/*
