@@ -249,7 +249,7 @@
 			"response": []
 		},
 		{
-			"name": "Register Agent",
+			"name": "Chaincode (Register Agent) (Login as Admin)",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -298,7 +298,7 @@
 			"response": []
 		},
 		{
-			"name": "Register User",
+			"name": "Chaincode (Register User) (Login as Agent)",
 			"request": {
 				"method": "POST",
 				"header": [],
